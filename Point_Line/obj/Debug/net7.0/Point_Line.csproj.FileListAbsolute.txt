@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Composition\Point_Line\bin\Debug\net7.0\Point_Line.exe
+C:\Users\User\Desktop\C# course\Composition\Point_Line\bin\Debug\net7.0\Point_Line.deps.json
+C:\Users\User\Desktop\C# course\Composition\Point_Line\bin\Debug\net7.0\Point_Line.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Composition\Point_Line\bin\Debug\net7.0\Point_Line.dll
+C:\Users\User\Desktop\C# course\Composition\Point_Line\bin\Debug\net7.0\Point_Line.pdb
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.dll
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\refint\Point_Line.dll
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.pdb
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\Point_Line.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Composition\Point_Line\obj\Debug\net7.0\ref\Point_Line.dll
